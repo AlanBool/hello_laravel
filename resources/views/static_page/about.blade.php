@@ -1,5 +1,5 @@
 @extends('layout.default')
 @section('title','about page')
 @section('content')
-    about page
+    about page of page
 @endsection
